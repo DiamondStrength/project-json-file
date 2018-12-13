@@ -1,12 +1,12 @@
 [
   {
     "name": "Grey Knit Cap",
-    "photo_url": "https://diamondstrength.technology/product/knit-cap-heather-grey/",
+    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/knit_cap_grey/master/knitCapgrey.jpg",
     "price": 19.99
   },
   {
     "name": "Black Knit Cap",
-    "photo_url": "https://diamondstrength.technology/product/knit-cap-black/",
+    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/knit-cap-black/master/knitCapblack.jpg",
     "price": 19.99
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Tote Bag",
-    "photo_url": "https://diamondstrength.technology/product/tote-bag/",
+    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/tote-bag/master/toteBags.jpg",
     "price": 23.99
   }
 ]
