@@ -11,12 +11,12 @@
   },
   {
     "name": "Pillow",
-    "photo_url": "https://diamondstrength.technology/product/pillows/",
+    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/pillow/master/pillow.jpg",
     "price": 18.99
   },
   {
     "name": "Coffee Mug",
-    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/mug/master/coffeeMugs.jpg",
+    "photo_url": "https://raw.githubusercontent.com/DiamondStrength/mugjpg/master/coffeeMugs.jpg",
     "price": 14.99
   },
   {
