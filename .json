@@ -1,27 +1,27 @@
 [
   {
     "name": "Grey Knit Cap",
-    "photo_url": "https://diamondstrength.technology/product/knit-cap-heather-grey/",
+    "photo_url": "https://diamondstrength.technology/product/knit-cap-heather-grey/.jpg",
     "price": 19.99
   },
   {
     "name": "Black Knit Cap",
-    "photo_url": "https://diamondstrength.technology/product/knit-cap-black/",
+    "photo_url": "https://diamondstrength.technology/product/knit-cap-black/.jpg",
     "price": 19.99
   },
   {
     "name": "Pillow",
-    "photo_url": "https://diamondstrength.technology/product/pillows/",
+    "photo_url": "https://diamondstrength.technology/product/pillows/.jpg",
     "price": 18.99
   },
   {
     "name": "Coffee Mug",
-    "photo_url": "https://diamondstrength.technology/product/coffee-mugs/",
+    "photo_url": "https://diamondstrength.technology/product/coffee-mugs/.jpg",
     "price": 14.99
   },
   {
     "name": "Tote Bag",
-    "photo_url": "https://diamondstrength.technology/product/tote-bag/",
+    "photo_url": "https://diamondstrength.technology/product/tote-bag/.jpg",
     "price": 23.99
   }
 ]
